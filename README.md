@@ -1,7 +1,5 @@
 # SECV2113-HUMAN-COMPUTER-INTERACTION
 
-# SECV2113-HUMAN-COMPUTER-INTERACTION
-
 # 👥 Human-Computer Interaction (SECV2113) - Learning Portfolio & Project Reflection
 
 Welcome to my portfolio for the **Human-Computer Interaction (HCI)** course.
