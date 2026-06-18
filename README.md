@@ -14,17 +14,17 @@ Human-Computer Interaction transformed how I perceive software architecture by s
 
 ## 🛠️ Assignment & Project Reflection
 
-### 🔹 [2023202402 Assignment 1- Persuasive Technology (Student).pdf] / [ASSIGNMENT 1.pdf]
+### 🔹 [Assignment 1]
 * **Concepts Focused:** The Fogg Behavior Model (FBM), Gamification Architecture, Core Motivators (Hope vs. Fear), and Trigger Optimization.
 * **Implementation Details:** Evaluated the language-learning application **Duolingo** as a mechanism for achieving *Sustainable Development Goal 4: Quality Education*. Analyzed its engagement ecosystem—specifically points, streaks, levels, and aggressive push notifications—against the three pillars of the FBM: motivation, ability, and triggers. 
 * **Reflection:** This assignment highlighted the delicate line between user encouragement and notification fatigue. While gamification heavily boosts initial motivation, overbearing or poorly timed reminders can destroy user retention by causing friction. I realized that effective persuasive design must respect user autonomy through timing optimization, personalization, and explicit user-centered control panels.
 
-### 🔹 [CI SECV2113 HCI 20232024-2.pdf] / [Assignment 2.pdf]
+### 🔹 [Assignment 2]
 * **Concepts Focused:** User-Centered Design Principles, Interface Usability, and Interaction Consistency.
 * **Implementation Details:** Reviewed general interface methodologies, structural layout frameworks, and interactive requirements necessary to deploy functional applications that effectively lower barriers to human execution.
 * **Reflection:** Diving deep into standard interface evaluations taught me how critical visibility and consistency are to the user experience. Minimizing user error requires organizing software environments cleanly so that users do not have to guess their next navigational step.
 
-### 🔹 [HCI PROJECT PART 2.pdf] - Establishing Requirements
+### 🔹 [HCI PROJECT PART 2] - Establishing Requirements
 * **Concepts Focused:** Hierarchical Task Analysis (HTA), Persona Development, Goal-Based Task Scenarios, and Design Requirement Inferences.
 * **Implementation Details:** Conducted a comprehensive behavioral analysis comparing three sustainable fashion platforms (*refash.my*, *ClothingDonations.org*, and *Good on You*). Formulated structural HTA diagrams tracking three main tasks: selling unwanted clothes, entering zip codes to locate local donation centers, and auditing brand sustainability metrics.
 * **Reflection:** Mapping out real-world user pathways via HTAs revealed that tiny variations in UI layout heavily impact efficiency. For example, forcing a user to scroll just to find a primary call-to-action button introduces immediate friction, proving that key features must always be immediately visible on the interface.
